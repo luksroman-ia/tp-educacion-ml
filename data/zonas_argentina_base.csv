@@ -1,0 +1,14 @@
+﻿zona,provincia,tipo_unidad,pobreza_infantil_pct,abandono_secundaria_pct,sobreedad_secundaria_pct,hogares_nbi_pct,barrios_renabap,prioridad_alta
+Gran Resistencia,Chaco,Aglomerado/Depto,54.2,8.4,24.1,14.8,145,1
+Posadas,Misiones,Aglomerado/Depto,47.8,7.9,22.5,12.3,112,1
+Corrientes Capital,Corrientes,Aglomerado/Depto,46.5,8.1,23.0,11.9,98,1
+Concordia,Entre Rios,Aglomerado/Depto,60.1,7.6,21.2,10.5,64,1
+La Matanza,Buenos Aires,Partido/Depto,49.3,7.2,20.8,11.4,198,1
+Moreno,Buenos Aires,Partido/Depto,51.0,7.5,21.6,12.7,121,1
+Florencio Varela,Buenos Aires,Partido/Depto,50.4,7.4,21.1,12.1,109,1
+Santiago del Estero - La Banda,Santiago del Estero,Aglomerado/Depto,45.2,7.3,20.4,13.5,87,1
+Gran Mendoza,Mendoza,Aglomerado/Depto,41.6,6.1,17.8,7.4,154,0
+Gran San Juan,San Juan,Aglomerado/Depto,41.2,6.3,18.2,7.9,73,0
+Rosario,Santa Fe,Aglomerado/Depto,38.4,6.5,18.5,6.8,118,0
+Cordoba Capital,Cordoba,Aglomerado/Depto,35.1,5.4,15.9,5.6,104,0
+CABA,CABA,Ciudad/Comuna,14.8,3.2,9.4,3.1,22,0
